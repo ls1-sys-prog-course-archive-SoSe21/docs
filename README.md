@@ -9,7 +9,7 @@
 
 - [Slides](slides/01-introduction.pdf)
 - [Lecture recording](https://www.youtube.com/watch?v=PXwlzMTT0VA&list=PLfKm1-FQibbAdPAHgK5Pv8LNRr0o4vou7&index=2)
-- Task: Implement sort(1)
+- Task: [Implement sort(1)](https://github.com/ls1-sys-prog-course/task0-sort)
 - Organizer: [Jörg Thalheim](https://github.com/Mic92)
 
 ### 1. Kernel and system calls
