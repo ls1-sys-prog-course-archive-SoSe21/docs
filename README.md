@@ -15,7 +15,7 @@
 ### 1. Kernel and system calls
 
 - [Slides](slides/task1.pdf)
-- Lecture recording](https://youtu.be/qO33G1od3Xo)
+- [Lecture recording](https://youtu.be/qO33G1od3Xo)
 - Task: TBA
 - Organizer: [Redha](https://github.com/rgouicem)
 
