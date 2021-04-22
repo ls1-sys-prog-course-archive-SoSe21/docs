@@ -24,7 +24,6 @@
 ### 2. File I/O
 
 - Organizer: [Harsha](https://github.com/harshanavkis)
-- Deadline: 13.05.2020 15:59
 
 ### 3. Processes
 
