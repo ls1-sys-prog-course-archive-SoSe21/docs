@@ -16,7 +16,7 @@
 
 - [Slides](slides/task1.pdf)
 - [Lecture recording](https://youtu.be/qO33G1od3Xo)
-- Task: TBA
+- Task: [Manual syscalls and tracing](https://github.com/ls1-sys-prog-course/task1-syscalls)
 - Organizer: [Redha](https://github.com/rgouicem)
 
 ### 2. File I/O
