@@ -23,6 +23,7 @@
 
 ### 2. File I/O
 
+- [Lecture recording](https://youtu.be/wDPH8DYZwCg)
 - Organizer: [Harsha](https://github.com/harshanavkis)
 
 ### 3. Processes
