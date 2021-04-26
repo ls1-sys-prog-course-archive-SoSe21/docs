@@ -23,6 +23,7 @@
 
 ### 2. File I/O
 
+- [Slides](slides/02-files.pdf)
 - [Lecture recording](https://youtu.be/wDPH8DYZwCg)
 - Organizer: [Harsha](https://github.com/harshanavkis)
 
