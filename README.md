@@ -25,7 +25,9 @@
 
 - [Slides](slides/02-files.pdf)
 - [Lecture recording](https://youtu.be/wDPH8DYZwCg)
+- Task: [Fuse filesystem](https://github.com/ls1-sys-prog-course/task2-fileio)
 - Organizer: [Harsha](https://github.com/harshanavkis)
+- Deadline: 13.05.2020 15:59
 
 ### 3. Processes
 
