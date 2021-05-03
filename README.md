@@ -31,7 +31,11 @@
 
 ### 3. Processes
 
-- Organizer: [mahille](https://github.com/mahille)
+- [Slides](slides/03-processes.pdf)
+- [Lecture recording](https://youtu.be/yDALtSjlK-M)
+- Task: TBA
+- Organizer: [Jörg Thalheim](https://github.com/Mic92) and [Atsushi](https://github.com/AtsushiKoshiba)
+- Task: TBA
 
 ### 4. Concurrency and synchronization (ipc)
 
