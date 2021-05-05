@@ -34,7 +34,7 @@
 - [Slides](slides/03-processes.pdf)
 - [Lecture recording](https://youtu.be/yDALtSjlK-M)
 - Task: TBA
-- Organizer: [Jörg Thalheim](https://github.com/Mic92) and [Atsushi](https://github.com/AtsushiKoshiba)
+- Organizer: [Atsushi](https://github.com/AtsushiKoshiba) and [Jörg Thalheim](https://github.com/Mic92)
 - Task: TBA
 
 ### 4. Concurrency and synchronization (ipc)
@@ -56,7 +56,3 @@
 ### 8. Container virtualization
 
 - Organizer: [Jörg Thalheim](https://github.com/Mic92)
-
-### 9. Virtualization
-
-- Organizer: [Atsushi](https://github.com/AtsushiKoshiba)
