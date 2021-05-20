@@ -45,7 +45,7 @@
 
 - [Slides](slides/04-concurrency.pdf)
 - [Lecture recording](https://youtu.be/Bj-1pFh8Bck)
-- Task: [Shell](https://github.com/ls1-sys-prog-course/task4-concurrency)
+- Task: [Synchronization and Scalability](https://github.com/ls1-sys-prog-course/task4-concurrency)
 - Organizer: [Shady](https://github.com/shadyalaa)
 - Deadline: 20.05.2020 15:59
 - Points: 30
