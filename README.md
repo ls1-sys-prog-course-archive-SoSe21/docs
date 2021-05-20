@@ -11,7 +11,7 @@
 - [Lecture recording](https://www.youtube.com/watch?v=PXwlzMTT0VA&list=PLfKm1-FQibbAdPAHgK5Pv8LNRr0o4vou7&index=2)
 - Task: [Implement sort(1)](https://github.com/ls1-sys-prog-course/task0-sort)
 - Organizer: [Jörg Thalheim](https://github.com/Mic92)
-- Deadline: 29.04.2020 15:59 (not really :))
+- Deadline: 29.04.2021 15:59 (not really :))
 - Points: -
 
 ### 1. Kernel and system calls
@@ -20,7 +20,7 @@
 - [Lecture recording](https://youtu.be/qO33G1od3Xo)
 - Task: [Manual syscalls and tracing](https://github.com/ls1-sys-prog-course/task1-syscalls)
 - Organizer: [Redha](https://github.com/rgouicem)
-- Deadline: 06.05.2020 15:59
+- Deadline: 06.05.2021 15:59
 - Points: 30
 
 ### 2. File I/O
@@ -29,7 +29,7 @@
 - [Lecture recording](https://youtu.be/wDPH8DYZwCg)
 - Task: [Fuse filesystem](https://github.com/ls1-sys-prog-course/task2-fileio)
 - Organizer: [Harsha](https://github.com/harshanavkis)
-- Deadline: 13.05.2020 15:59
+- Deadline: 13.05.2021 15:59
 - Points: 30
 
 ### 3. Processes
@@ -38,7 +38,7 @@
 - [Lecture recording](https://youtu.be/yDALtSjlK-M)
 - Task: [Shell](https://github.com/ls1-sys-prog-course/task3-processes)
 - Organizer: [Atsushi](https://github.com/AtsushiKoshiba) and [Jörg Thalheim](https://github.com/Mic92)
-- Deadline: 03.06.2020 15:59
+- Deadline: 20.05.2021 15:59
 - Points: 30
 
 ### 4. Concurrency and synchronization (ipc)
@@ -47,7 +47,7 @@
 - [Lecture recording](https://youtu.be/Bj-1pFh8Bck)
 - Task: [Synchronization and Scalability](https://github.com/ls1-sys-prog-course/task4-concurrency)
 - Organizer: [Shady](https://github.com/shadyalaa)
-- Deadline: 20.05.2020 15:59
+- Deadline: 03.06.2021 15:59
 - Points: 30
 
 ### 5. Memory management
