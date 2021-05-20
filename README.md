@@ -38,16 +38,16 @@
 - [Lecture recording](https://youtu.be/yDALtSjlK-M)
 - Task: [Shell](https://github.com/ls1-sys-prog-course/task3-processes)
 - Organizer: [Atsushi](https://github.com/AtsushiKoshiba) and [Jörg Thalheim](https://github.com/Mic92)
-- Deadline: 20.05.2020 15:59
+- Deadline: 03.06.2020 15:59
 - Points: 30
 
 ### 4. Concurrency and synchronization (ipc)
 
-- Slides: TBA
-- Lecture recording: TBA
+- [Slides](slides/04-concurrency.pdf)
+- [Lecture recording](https://youtu.be/Bj-1pFh8Bck)
+- Task: [Shell](https://github.com/ls1-sys-prog-course/task4-concurrency)
 - Organizer: [Shady](https://github.com/shadyalaa)
-- Task: TBA
-- Deadline: TBA
+- Deadline: 20.05.2020 15:59
 - Points: 30
 
 ### 5. Memory management
