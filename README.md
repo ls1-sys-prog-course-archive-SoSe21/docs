@@ -52,8 +52,8 @@
 
 ### 5. Memory management
 
-- Slides: TBA
-- Lecture recording: TBA
+- [Slides](slides/05-memory_management.pdf)
+- [Lecture recording](https://youtu.be/1LxVzohqRx0)
 - Organizer: [Dimitrios](https://github.com/dimstav23)
 - Task: TBA
 - Deadline: TBA
