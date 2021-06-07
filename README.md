@@ -4,7 +4,6 @@
 - [Youtube playlist](https://www.youtube.com/playlist?list=PLfKm1-FQibbAdPAHgK5Pv8LNRr0o4vou7)
 - [Bugtracker](https://github.com/ls1-sys-prog-course/docs/issues)
 
-## Upcoming
 ### 0. Overview and introduction
 
 - [Slides](slides/01-introduction.pdf)
@@ -59,6 +58,7 @@
 - Deadline: 17.06.2021 15:59
 - Points: 40
 
+## Upcoming
 ### 6. Sockets
 
 - Slides: TBA
@@ -85,3 +85,23 @@
 - Task: TBA
 - Deadline: TBA
 - Points: 60
+
+## Grades
+
+Grades are computed as follow:
+
+|From| To|Grade|
+|----|---|-----|
+|0   |105| 5.0 |
+|120 |135| 4.7 |
+|135 |150| 4.3 |
+|150 |165| 4.0 |
+|165 |180| 3.7 |
+|180 |195| 3.3 |
+|195 |210| 3.0 |
+|210 |225| 2.7 |
+|225 |240| 2.3 |
+|240 |255| 2.0 |
+|255 |270| 1.7 |
+|270 |285| 1.3 |
+|285 |300| 1.0 |
