@@ -58,16 +58,16 @@
 - Deadline: 17.06.2021 15:59
 - Points: 40
 
-## Upcoming
 ### 6. Sockets
 
-- Slides: TBA
-- Lecture recording: TBA
+- [Slides](slides/06-network_programming.pdf)
+- [Lecture recording](https://youtu.be/fDRaXnhjoDE)
 - Organizer: [Dimitra](https://github.com/dgiantsidi)
 - Task: TBA
 - Deadline: TBA
 - Points: 40
 
+## Upcoming
 ### 7. Performance
 
 - Slides: TBA
