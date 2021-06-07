@@ -60,8 +60,8 @@
 
 ### 6. Sockets
 
-- [Slides] (slides/06-network_programming.pdf)
-- [Lecture recording] (https://youtu.be/fDRaXnhjoDE)
+- [Slides](slides/06-network_programming.pdf)
+- [Lecture recording](https://youtu.be/fDRaXnhjoDE)
 - Organizer: [Dimitra](https://github.com/dgiantsidi)
 - Task: TBA
 - Deadline: TBA
