@@ -63,8 +63,8 @@
 - [Slides](slides/06-network_programming.pdf)
 - [Lecture recording](https://youtu.be/fDRaXnhjoDE)
 - Organizer: [Dimitra](https://github.com/dgiantsidi)
-- Task: TBA
-- Deadline: TBA
+- Task: [Sockets](https://github.com/ls1-sys-prog-course/task6-sockets)
+- Deadline: 24.06.2021: 15:59
 - Points: 40
 
 ## Upcoming
