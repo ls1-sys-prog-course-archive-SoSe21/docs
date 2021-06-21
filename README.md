@@ -79,11 +79,11 @@
 
 ### 8. Container virtualization
 
-- Slides: TBA
-- Lecture recording: TBA
+- [Slides](slides/08-container.pdf)
+- [Lecture recording](https://www.youtube.com/watch?v=D-BRWgDIHfQ)
 - Organizer: [Jörg Thalheim](https://github.com/Mic92)
-- Task: TBA
-- Deadline: TBA
+- Task: [Container](https://github.com/ls1-sys-prog-course/task7-container)
+- Deadline: 08.08.2021
 - Points: 60
 
 ## Grades
