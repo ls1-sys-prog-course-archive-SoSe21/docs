@@ -80,7 +80,7 @@
 ### 8. Container virtualization
 
 - [Slides](slides/08-container.pdf)
-- [Lecture recording](https://www.youtube.com/watch?v=D-BRWgDIHfQ)
+- [Lecture recording](https://youtu.be/GMs3kLteZvk)
 - Organizer: [Jörg Thalheim](https://github.com/Mic92)
 - Task: [Container](https://github.com/ls1-sys-prog-course/task7-container)
 - Deadline: 08.08.2021
