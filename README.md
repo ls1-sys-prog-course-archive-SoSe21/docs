@@ -83,7 +83,7 @@
 - [Lecture recording](https://youtu.be/GMs3kLteZvk)
 - Organizer: [Jörg Thalheim](https://github.com/Mic92)
 - Task: [Container](https://github.com/ls1-sys-prog-course/task7-container)
-- Deadline: 08.08.2021
+- Deadline: 08.07.2021
 - Points: 60
 
 ## Grades
