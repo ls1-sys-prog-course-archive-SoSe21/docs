@@ -71,10 +71,10 @@
 ### 7. Performance
 
 - Slides: TBA
-- Lecture recording: TBA
+- [Lecture recording](https://youtu.be/2eW-J9fs12g)
 - Organizer: [Maurice](https://github.com/mbailleu)
-- Task: TBA
-- Deadline: TBA
+- Task: [Performance](https://github.com/ls1-sys-prog-course/task7-performance)
+- Deadline: 08.07.2021
 - Points: 40
 
 ### 8. Container virtualization
@@ -84,7 +84,7 @@
 - Organizer: [Jörg Thalheim](https://github.com/Mic92)
 - Task: [Container](https://github.com/ls1-sys-prog-course/task7-container)
 - [Task Explaination](https://www.youtube.com/watch?v=INyb4Rj073U)
-- Deadline: 08.07.2021
+- Deadline: 15.07.2021
 - Points: 60
 
 ## Grades
