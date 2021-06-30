@@ -70,7 +70,7 @@
 ## Upcoming
 ### 7. Performance
 
-- Slides: TBA
+- [Slides](slides/07-performance.pdf)
 - [Lecture recording](https://youtu.be/2eW-J9fs12g)
 - Organizer: [Maurice](https://github.com/mbailleu)
 - Task: [Performance](https://github.com/ls1-sys-prog-course/task7-performance)
