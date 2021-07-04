@@ -82,7 +82,7 @@
 - [Slides](slides/08-container.pdf)
 - [Lecture recording](https://youtu.be/GMs3kLteZvk)
 - Organizer: [Jörg Thalheim](https://github.com/Mic92)
-- Task: [Container](https://github.com/ls1-sys-prog-course/task7-container)
+- Task: [Container](https://github.com/ls1-sys-prog-course/task8-container)
 - [Task Explaination](https://www.youtube.com/watch?v=INyb4Rj073U)
 - Deadline: 15.07.2021
 - Points: 60
